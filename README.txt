@@ -23,3 +23,5 @@ Language Used
 
 Framework Used
 -Boostrap and Icons
+
+##### If you find issue feel free to comment it
